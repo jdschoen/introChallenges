@@ -1,16 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
-int worthless(int x)
-{
-    char buff[250];
-    char buff2[250];
-
-    x = 0;
-    return x;
-}
-
 int main(void)
 {
     int x = 0;
