@@ -4,7 +4,6 @@
 int main(void)
 {
     int x = 0;
-    int pass = worthless(x);
     char buff[16];
 
 
