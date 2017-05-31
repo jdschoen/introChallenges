@@ -55,8 +55,8 @@ int main(int argc, char **argv)
 	const char* sect3pwdB64 = "UzNjVDEwblRoUjMz";
 	const char* sect3pwd = "S3cT10nThR33";
 	const char* sect4pwdUrl = "\%35\%33\%63\%37\%31\%30\%6e\%34";
-  const char* sect4pwd = "53c710n4";
-  const char* sect5pwdBin  = "110101c1000111Qn101";
+        const char* sect4pwd = "53c710n4";
+        const char* sect5pwdBin  = "110101c1000111Qn101";
 	const char* sect5pwd = "53c71Qn5";
 	const char* lastSectPwdHtml  = "&#x37;&#x68;&#x31;&#x35;&#x31;&#x35;&#x37;&#x68;&#x33;&#x6c;&#x34;&#x35;&#x37;&#x35;&#x33;&#x63;&#x37;&#x31;&#x30;&#x6e;";
 	const char* lastSectPwd = "7h15157h3l45753c710n";
